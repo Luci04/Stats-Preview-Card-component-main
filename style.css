@@ -151,3 +151,15 @@ body {
     margin-top: 20px;
   }
 }
+
+.attribution {
+  position: fixed;
+  inset: auto 0 0 0;
+  background-color: white;
+  text-align: center;
+}
+
+.attribution a {
+  text-decoration: none;
+  padding: 0 2px;
+}
